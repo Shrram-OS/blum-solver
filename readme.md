@@ -45,8 +45,8 @@
 ├── main.py
 ├── requirements.txt
 └── /images
-    ├── image1.png
-    ├── image2.png
+    ├── 20.png
+    ├── 25.png
     └── ...
 ```
 ## Контакты
